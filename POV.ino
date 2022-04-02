@@ -1,3 +1,4 @@
+#include "POV_Char.h"
   const int LEDpins[] = {2,8,7,6,5,4,3,9};
   int rows= 8;		  
    const int charHeight = 8;
